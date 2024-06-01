@@ -83,12 +83,8 @@
     border-radius: 15px;
     font-size: 18px;
 }   
-input:focus {
-    outline: none; /* Remove the default focus outline */
-    border-color: transparent; /* Set border color to transparent */
-  }
 
-  .search-input::placeholder {
+.search-input::placeholder {
     color: black; /* Change placeholder color to black */
 }
 .search-bar-container{
