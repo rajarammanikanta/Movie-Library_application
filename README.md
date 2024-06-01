@@ -30,6 +30,15 @@ If you'd like to create your own credentials, follow these steps:
 4. Submit the form to create your account.
 5. You can now use your newly created credentials to log in to the application.
 
+## Features
+
+- **Login**: Users can log in using their credentials.
+- **Signup**: New users can create an account by providing their information.
+- **Home**: The home page displays various modules and functionalities of the application.
+- **Playlist**: Users can add movies to their playlist and remove them as well.
+- **Search**: The application allows users to search for movies using keywords.
+- **Movie Details**: Clicking on a movie card displays detailed information about the movie.
+
 ## Available Scripts
 
 ...
