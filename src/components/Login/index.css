@@ -50,14 +50,14 @@
     padding: 5px;
     border-radius: 5px;
     background-color: transparent;
-    color: white; 
+    color: #ffffff; 
     border-style: solid;
     border-color: white; 
     margin-top: 5px;
     height: 25px;
 }  
 
-::placeholder.username{
+.username.placeholder{
     color: white;
 }
 
