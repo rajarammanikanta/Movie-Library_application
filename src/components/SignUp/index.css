@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+
+.overall-form-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-image: url("https://images.pexels.com/photos/7991486/pexels-photo-7991486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100vh;
+    background-size: cover;
+    color: white;  
+    width: 100%; 
+
+}
+
+.heading-container{
+    font-size: 18px;
+    font-family: serif;
+    text-align: center;  
+    margin: 10px;
+}
+
+
+.form-contianer1{
+    height: 510px;
+    width: 380px;
+ 
+    padding: 8px;
+    border-radius: 10px; 
+    display: flex;
+    flex-direction: column;
+    margin: 140px; 
+    background-color: transparent;  
+
+    border-style: solid;
+
+}  
+
+.username-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+} 
+
+.username{
+    font-family: "Roboto";
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white; 
+    border-style: solid;
+    border-color: white; 
+    margin-top: 5px;
+    height: 25px;
+}  
+
+::placeholder{
+    color: white;
+}
+
+.label{
+    font-family: "roboto";
+    font-size: 18px;
+} 
+
+.login-button{
+    background-color: #f52246;
+    font-size: 16px;
+    border-width: 0px;
+    color: white;
+    height: 38px;
+    width: 128px;
+    border-radius: 10px;
+    cursor: pointer;
+  } 
+
+  .button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+  } 
+
+  .new-user{
+    font-family: "roboto";  
+    text-align: end;
+    color: white;
+
+    margin-top: 18px;
+    font-weight: bold;
+  }

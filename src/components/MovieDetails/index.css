@@ -1,0 +1,49 @@
+
+
+.moviedetails-container{
+    display: flex;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+
+    
+} 
+.movies-sidebar-container{
+    display: flex;
+    margin-top:80px;
+} 
+
+.movies-details-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+
+.movie-heading{
+    font-family: sans-serif ;
+    color: #f52246;
+}
+
+.content{
+    font-family: serif;
+    margin: 5px;
+    font-size: 18px;
+} 
+
+.two-buttons-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+} 
+
+.btn{
+    margin: 5px;
+}
