@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
 To access the application with predefined credentials, use the following:
 
-- **Username**: akhil12@gmail.com
+- **Username**: manikanta@gmail.com
 - **Password**: 123456
 
 ### Sign Up for Your Own Credentials
